@@ -1,0 +1,9 @@
+name: AdvamcedPunishments
+version: 1.0.0
+main: me.mrcoolman.AP.APFront
+author: MrCoolMan
+commands:
+ AP:
+  Describtion: Main command for AP.
+
+  
